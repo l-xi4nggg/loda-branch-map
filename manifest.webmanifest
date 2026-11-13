@@ -1,0 +1,9 @@
+{
+  "name": "LODA Branch Map / LODA 门店地图",
+  "short_name": "LODA Map",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f4c81",
+  "icons": []
+}

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>LODA 门店地图 | Branch Map</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <meta name="theme-color" content="#0f4c81" />
+
+  <!-- Fonts: Poppins (EN/Numbers) + Battambang fallback for Khmer OS Battambang -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Battambang:wght@400;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <!-- Leaflet & MarkerCluster -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" crossorigin="" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" crossorigin="" />
+
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div id="app" class="app-shell">
+    <!-- Top Header -->
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-badge"><img src="./assets/loda-logo.png" alt="LODA" /></div>
+        <div class="brand-text">
+          <h1 id="brandTitle">LODA 门店地图</h1>
+          <span id="brandSub" class="brand-sub">正在加载网点数据…</span>
+        </div>
+      </div>
+
+      <div class="topbar-actions">
+        <button id="btnLocate" class="action-btn" type="button" title="Locate me">
+          <span class="btn-icon">📍</span>
+          <span id="lblLocate">离我最近</span>
+        </button>
+        <button id="btnPickPoint" class="action-btn" type="button" title="Pick point on map">
+          <span class="btn-icon">🎯</span>
+          <span id="lblPickPoint">地图选点</span>
+        </button>
+
+        <div class="lang-switch" role="group" aria-label="Language switcher">
+          <button type="button" class="lang-btn" data-lang="km">ខ្មែរ</button>
+          <button type="button" class="lang-btn active" data-lang="zh">中文</button>
+          <button type="button" class="lang-btn" data-lang="en">EN</button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Province Category Filter Bar -->
+    <section class="province-bar" aria-label="Province filter">
+      <div id="provinceChips" class="province-chips"></div>
+    </section>
+
+    <!-- Mobile View Toggle -->
+    <div class="mobile-tabs">
+      <button id="tabMap" type="button" class="mobile-tab active">🗺️ <span id="lblTabMap">地图</span></button>
+      <button id="tabList" type="button" class="mobile-tab">📋 <span id="lblTabList">门店列表</span></button>
+    </div>
+
+    <!-- Main Workspace -->
+    <main class="workspace">
+      <!-- Left Sidebar List -->
+      <aside id="sidebar" class="sidebar">
+        <div class="search-wrap">
+          <div class="search-box">
+            <span class="search-icon">🔍</span>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="搜索仓名 / 编码 / 邮编 / 业务员 / 电话…" />
+            <button id="btnClearSearch" class="clear-btn hidden" type="button" aria-label="Clear search">✕</button>
+          </div>
+          <div class="list-meta">
+            <span id="resultCount">0 个站点</span>
+            <span id="refStatus" class="ref-status hidden"></span>
+          </div>
+        </div>
+
+        <div id="branchList" class="branch-list"></div>
+      </aside>
+
+      <!-- Map Viewport -->
+      <section id="mapPane" class="map-pane active-pane">
+        <div id="map"></div>
+
+        <!-- Pick Mode Banner -->
+        <div id="pickBanner" class="pick-banner hidden">
+          <span id="lblPickHint">请在地图上点击任意位置，按该点计算最近门店</span>
+          <button id="btnCancelPick" type="button" class="mini-cancel">取消</button>
+        </div>
+
+        <!-- Step 1: Non-blocking Bottom Mini Bar -->
+        <div id="miniBar" class="mini-bar hidden" role="region" aria-label="Selected branch summary">
+          <div class="mini-bar-main" id="miniBarClickable">
+            <div class="mini-avatar-wrap" id="miniAvatarWrap"></div>
+            <div class="mini-info">
+              <div class="mini-title" id="miniTitle"></div>
+              <div class="mini-sub" id="miniSub"></div>
+            </div>
+          </div>
+          <div class="mini-actions">
+            <button id="btnMiniDetail" class="mini-btn primary" type="button">详情</button>
+            <a id="btnMiniNav" class="mini-btn outline" href="#" target="_blank" rel="noopener noreferrer">导航</a>
+            <button id="btnCloseMini" class="mini-close" type="button" aria-label="Close">✕</button>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Step 2: Detail Modal -->
+  <div id="detailModal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="detailTitle">
+    <div class="modal-card">
+      <button id="btnCloseModal" class="modal-close" type="button" aria-label="Close">✕</button>
+
+      <div id="detailPhotoBox" class="detail-photo-box"></div>
+
+      <div class="detail-body">
+        <div class="detail-header">
+          <span id="detailProvinceBadge" class="province-badge"></span>
+          <h2 id="detailTitle" class="detail-title"></h2>
+        </div>
+
+        <dl class="detail-fields" id="detailFields"></dl>
+
+        <div class="detail-footer">
+          <a id="detailNavBtn" class="footer-btn primary" href="#" target="_blank" rel="noopener noreferrer">打开 Google 地图</a>
+          <button id="detailCopyCoordBtn" class="footer-btn secondary" type="button">复制经纬度</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Lightbox for full-screen storefront photo -->
+  <div id="lightbox" class="lightbox hidden" role="dialog" aria-modal="true">
+    <button id="btnCloseLightbox" class="lightbox-close" type="button" aria-label="Close">✕</button>
+    <img id="lightboxImg" src="" alt="" />
+    <div id="lightboxCaption" class="lightbox-caption"></div>
+  </div>
+
+  <!-- Toast -->
+  <div id="toast" class="toast hidden"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
+  <script src="./app.js"></script>
+</body>
+</html>
