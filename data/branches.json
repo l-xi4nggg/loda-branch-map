@@ -9381,8 +9381,8 @@
     "maps_url": "https://maps.google.com/maps?q=12.866160,105.070084&ll=12.866160,105.070084&z=16",
     "lat": 12.86616,
     "lon": 105.070084,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_646.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0211.webp"
   },
   {
