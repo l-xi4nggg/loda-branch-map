@@ -1629,8 +1629,8 @@
     "maps_url": "https://maps.app.goo.gl/kEzbPcYxmsaSchda9",
     "lat": 12.52919,
     "lon": 104.166873,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_95.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0147.webp"
   },
   {
@@ -2104,8 +2104,8 @@
     "maps_url": "https://maps.app.goo.gl/KpBMqyekwXyCyvG97?g_st=com.google.maps.preview.copy",
     "lat": 13.1105,
     "lon": 103.154806,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_142.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0169.webp"
   },
   {
@@ -2332,8 +2332,8 @@
     "maps_url": "https://www.google.com/maps/search/11.851583,+104.719250?sa=X&ved=1t:242&ictx=111",
     "lat": 11.851583,
     "lon": 104.71925,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_157.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0286.webp"
   },
   {
@@ -2503,8 +2503,8 @@
     "maps_url": "https://maps.google.com/maps?q=13.142074,103.194724&ll=13.142074,103.194724&z=16",
     "lat": 13.142083,
     "lon": 103.194722,
-    "image": "",
-    "photo_status": "duplicate",
+    "image": "images/prov/prov_169.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0175.webp"
   },
   {
@@ -3149,8 +3149,8 @@
     "maps_url": "https://maps.app.goo.gl/rQTgzEFnk1dgPmSZ7?g_st=it",
     "lat": 13.0334,
     "lon": 103.1122,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_229.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0475.webp"
   },
   {
@@ -3206,8 +3206,8 @@
     "maps_url": "https://maps.google.com/maps?q=10.985641,103.211113&ll=10.985641,103.211113&z=16",
     "lat": 10.985641,
     "lon": 103.211113,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_235.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0100.webp"
   },
   {
@@ -3700,8 +3700,8 @@
     "maps_url": "https://maps.app.goo.gl/UTQbvXKN1gm2J9B26?g_st=it",
     "lat": 13.382111,
     "lon": 103.861417,
-    "image": "",
-    "photo_status": "duplicate",
+    "image": "images/prov/prov_270.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0006.webp"
   },
   {
@@ -3814,8 +3814,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.444236,105.039275&ll=11.444236,105.039275&z=16",
     "lat": 11.43157,
     "lon": 105.04476,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_277.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0484.webp"
   },
   {
@@ -4099,8 +4099,8 @@
     "maps_url": "https://maps.app.goo.gl/5Jcko9Hq48YLem147?g_st=it",
     "lat": 12.171417,
     "lon": 104.663056,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_293.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0353.webp"
   },
   {
@@ -4194,8 +4194,8 @@
     "maps_url": "https://maps.app.goo.gl/iN3gozXa1hCXYvFd8",
     "lat": 13.117278,
     "lon": 103.123944,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_302.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0042.webp"
   },
   {
@@ -4441,8 +4441,8 @@
     "maps_url": "https://www.google.com/maps/place/12%C2%B054'10.6%22N+103%C2%B022'04.5%22E/@12.8970697,103.3702423,16.5z/data=!4m4!3m3!8m2!3d12.902932!4d103.367909?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
     "lat": 12.902944,
     "lon": 103.367917,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_317.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0055.webp"
   },
   {
@@ -4479,8 +4479,8 @@
     "maps_url": "https://www.google.com/maps/dir//10.985988,103.792831/@10.993865,103.7212512,21236m/data=!3m1!1e3!4m5!4m4!1m0!1m1!4e1!3e0!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
     "lat": 10.986028,
     "lon": 103.792722,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_320.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0490.webp"
   },
   {
@@ -4916,8 +4916,8 @@
     "maps_url": "https://maps.google.com/maps?q=13.444011,103.939695&ll=13.444011,103.939695&z=16",
     "lat": 13.444011,
     "lon": 103.939695,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_347.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0455.webp"
   },
   {
@@ -5657,8 +5657,8 @@
     "maps_url": "https://maps.google.com/maps?q=13.432544,102.369069&ll=13.432544,102.369069&z=16",
     "lat": 13.432544,
     "lon": 102.369069,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_403.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0396.webp"
   },
   {
@@ -5828,8 +5828,8 @@
     "maps_url": "https://maps.google.com/maps?q=13.704558,104.554888&ll=13.704558,104.554888&z=16",
     "lat": 13.704558,
     "lon": 104.554888,
-    "image": "",
-    "photo_status": "duplicate",
+    "image": "images/prov/prov_417.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0416.webp"
   },
   {
@@ -5885,8 +5885,8 @@
     "maps_url": "https://maps.google.com/maps?q=13.261554,102.979129&ll=13.261554,102.979129&z=16",
     "lat": 13.261554,
     "lon": 102.979129,
-    "image": "",
-    "photo_status": "duplicate",
+    "image": "images/prov/prov_420.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0066.webp"
   },
   {
@@ -6189,8 +6189,8 @@
     "maps_url": "https://maps.app.goo.gl/r5a7QXzDyqcovatD8",
     "lat": 12.048931,
     "lon": 104.525013,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_448.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0448.webp"
   },
   {
@@ -6379,8 +6379,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.688384,105.563793&ll=11.688384,105.563793&z=16",
     "lat": 11.688384,
     "lon": 105.563793,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_464.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0190.webp"
   },
   {
@@ -6474,8 +6474,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.193686,105.063618&ll=11.193686,105.063618&z=16",
     "lat": 11.193686,
     "lon": 105.063618,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_472.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0302.webp"
   },
   {
@@ -6607,8 +6607,8 @@
     "maps_url": "https://maps.google.com/maps?q=13.688855,107.208294&ll=13.688855,107.208294&z=16",
     "lat": 13.688973,
     "lon": 107.208314,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_480.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0166.webp"
   },
   {
@@ -6626,8 +6626,8 @@
     "maps_url": "https://maps.google.com/maps?q=12.971332,103.289781&ll=12.971332,103.289781&z=16",
     "lat": 12.971332,
     "lon": 103.289781,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_481.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0065.webp"
   },
   {
@@ -6797,8 +6797,8 @@
     "maps_url": "https://maps.app.goo.gl/AyLSa9PLcPnMnMYP7",
     "lat": 10.620028,
     "lon": 103.535694,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_492.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0019.webp"
   },
   {
@@ -6873,8 +6873,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.970420,104.561031&ll=11.970420,104.561031&z=16",
     "lat": 11.97042,
     "lon": 104.561031,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_498.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0228.webp"
   },
   {
@@ -7234,8 +7234,8 @@
     "maps_url": "https://maps.app.goo.gl/LEqwU7YQHsKYkZ2Y9?g_st=it",
     "lat": 11.261647,
     "lon": 104.944493,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_520.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0017.webp"
   },
   {
@@ -7348,8 +7348,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.696114,105.446286&ll=11.696114,105.446286&z=16",
     "lat": 11.696111,
     "lon": 105.446278,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_527.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0526.webp"
   },
   {
@@ -7633,8 +7633,8 @@
     "maps_url": "https://maps.app.goo.gl/fkF2zF4zMtW8o94L6",
     "lat": 11.555722,
     "lon": 105.259306,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_542.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0087.webp"
   },
   {
@@ -7880,8 +7880,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.054172,105.190356&ll=11.054172,105.190356&z=16",
     "lat": 11.054172,
     "lon": 105.190356,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_557.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0232.webp"
   },
   {
@@ -8013,8 +8013,8 @@
     "maps_url": "https://www.google.com/maps/place/11%C2%B000'12.6%22N+105%C2%B011'00.7%22E/@11.0034989,105.1835215,17z/data=!3m1!4b1!4m4!3m3!8m2!3d11.0034989!4d105.1835215?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
     "lat": 11.0035,
     "lon": 105.183528,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_567.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0105.webp"
   },
   {
@@ -8051,8 +8051,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.475565,105.164244&ll=11.475565,105.164244&z=16",
     "lat": 11.475565,
     "lon": 105.164244,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_569.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0122.webp"
   },
   {
@@ -8070,8 +8070,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.847302,104.957128&ll=11.847302,104.957128&z=16",
     "lat": 11.847302,
     "lon": 104.957128,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_570.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0152.webp"
   },
   {
@@ -8108,8 +8108,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.332987,105.241278&ll=11.332987,105.241278&z=16",
     "lat": 11.332987,
     "lon": 105.241278,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_572.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0233.webp"
   },
   {
@@ -8127,8 +8127,8 @@
     "maps_url": "https://www.google.com/maps/search/11.687807259150135,+104.13001267687277?sa=X&ved=1t:242&ictx=111",
     "lat": 11.687807,
     "lon": 104.130013,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_573.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0438.webp"
   },
   {
@@ -8222,8 +8222,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.766384,104.779961&ll=11.766384,104.779961&z=16",
     "lat": 11.766429,
     "lon": 104.779967,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_581.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0427.webp"
   },
   {
@@ -8260,8 +8260,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.497748,105.532490&ll=11.497748,105.532490&z=16",
     "lat": 11.497748,
     "lon": 105.53249,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_583.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0446.webp"
   },
   {
@@ -8336,8 +8336,8 @@
     "maps_url": "https://maps.google.com/maps?q=13.365047,103.789466&ll=13.365047,103.789466&z=16",
     "lat": 13.365047,
     "lon": 103.789466,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_587.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0084.webp"
   },
   {
@@ -8526,8 +8526,8 @@
     "maps_url": "https://maps.app.goo.gl/XbHhD4LWEv4LcS9bA?g_st=ifm",
     "lat": 11.779678,
     "lon": 104.743418,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_598.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0103.webp"
   },
   {
@@ -8564,8 +8564,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.541097,105.052030&ll=11.541097,105.052030&z=16",
     "lat": 11.541097,
     "lon": 105.05203,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_600.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0125.webp"
   },
   {
@@ -8621,8 +8621,8 @@
     "maps_url": "https://maps.google.com/maps?q=12.643283,103.393221&ll=12.643283,103.393221&z=16",
     "lat": 12.643283,
     "lon": 103.393221,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_603.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0341.webp"
   },
   {
@@ -8716,8 +8716,8 @@
     "maps_url": "https://maps.google.com/maps?q=12.289324,104.182781&ll=12.289324,104.182781&z=16",
     "lat": 12.289324,
     "lon": 104.182781,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_608.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0444.webp"
   },
   {
@@ -8735,8 +8735,8 @@
     "maps_url": "https://maps.google.com/maps?q=13.061019,103.153192&ll=13.061019,103.153192&z=16",
     "lat": 13.061019,
     "lon": 103.153192,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_609.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0443.webp"
   },
   {
@@ -8754,8 +8754,8 @@
     "maps_url": "https://maps.google.com/maps?q=12.578379,103.006103&ll=12.578379,103.006103&z=16",
     "lat": 12.578379,
     "lon": 103.006103,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_610.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0449.webp"
   },
   {
@@ -8849,8 +8849,8 @@
     "maps_url": "https://maps.app.goo.gl/SNoUpTsb5DUqkon39?g_st=ic",
     "lat": 13.039579,
     "lon": 103.186621,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_615.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0107.webp"
   },
   {
@@ -9134,8 +9134,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.678856,104.792267&ll=11.678856,104.792267&z=16",
     "lat": 11.678856,
     "lon": 104.792267,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_630.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0468.webp"
   },
   {
@@ -9172,8 +9172,8 @@
     "maps_url": "https://maps.google.com/maps?q=12.011174,104.728482&ll=12.011174,104.728482&z=16",
     "lat": 12.01132,
     "lon": 104.728643,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_632.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0294.webp"
   },
   {
@@ -9210,8 +9210,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.171616,105.024137&ll=11.171616,105.024137&z=16",
     "lat": 11.171616,
     "lon": 105.024137,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_634.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0085.webp"
   },
   {
@@ -9286,8 +9286,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.507186,105.028130&ll=11.507186,105.028130&z=16",
     "lat": 11.507186,
     "lon": 105.02813,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_641.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0141.webp"
   },
   {
@@ -9324,8 +9324,8 @@
     "maps_url": "https://maps.app.goo.gl/MdV78uqB9zfR7TNNA",
     "lat": 11.554815,
     "lon": 104.984759,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_643.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0133.webp"
   },
   {
@@ -9476,8 +9476,8 @@
     "maps_url": "https://maps.google.com/maps?q=12.157373,104.597300&ll=12.157373,104.597300&z=16",
     "lat": 12.157373,
     "lon": 104.5973,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_651.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0058.webp"
   },
   {
@@ -9533,8 +9533,8 @@
     "maps_url": "https://www.google.com/maps/search/12.452076277441366,+103.70214471702442?sa=X&ved=1t:242&ictx=111",
     "lat": 12.452076,
     "lon": 103.702145,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_654.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0299.webp"
   },
   {
@@ -9628,8 +9628,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.803303,104.767435&ll=11.803303,104.767435&z=16",
     "lat": 11.803303,
     "lon": 104.767435,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_659.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0138.webp"
   },
   {
@@ -9742,8 +9742,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.709499,104.975311&ll=11.709499,104.975311&z=16",
     "lat": 11.709499,
     "lon": 104.975311,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_665.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0126.webp"
   },
   {
@@ -9761,8 +9761,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.649471,104.959566&ll=11.649471,104.959566&z=16",
     "lat": 11.649471,
     "lon": 104.959566,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_666.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0337.webp"
   },
   {
@@ -9837,8 +9837,8 @@
     "maps_url": "https://maps.app.goo.gl/G34FdcmEgwcF6UmC8?g_st=ic",
     "lat": 10.987648,
     "lon": 105.066717,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_670.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0349.webp"
   },
   {
@@ -9856,8 +9856,8 @@
     "maps_url": "https://maps.google.com/maps?q=12.695298,103.740681&ll=12.695298,103.740681&z=16",
     "lat": 12.695298,
     "lon": 103.740681,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_671.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0372.webp"
   },
   {
@@ -9875,8 +9875,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.256349,105.394372&ll=11.256349,105.394372&z=16",
     "lat": 11.256349,
     "lon": 105.394372,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_673.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0254.webp"
   },
   {
@@ -9932,8 +9932,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.345442,104.974507&ll=11.345442,104.974507&z=16",
     "lat": 11.345442,
     "lon": 104.974507,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_676.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0153.webp"
   },
   {
@@ -9951,8 +9951,8 @@
     "maps_url": "https://maps.app.goo.gl/QqdxYBnsvRXLpn7D9",
     "lat": 11.441222,
     "lon": 104.816806,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_677.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0143.webp"
   },
   {
@@ -9989,8 +9989,8 @@
     "maps_url": "https://maps.google.com/maps?q=13.086481,103.031537&ll=13.086481,103.031537&z=16",
     "lat": 13.086481,
     "lon": 103.031537,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_679.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0112.webp"
   },
   {
@@ -10008,8 +10008,8 @@
     "maps_url": "https://maps.app.goo.gl/QthHa8vw4onztvWi9?g_st=it",
     "lat": 12.943611,
     "lon": 103.142185,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_680.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0310.webp"
   },
   {
@@ -10103,8 +10103,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.109985,105.311909&ll=11.109985,105.311909&z=16",
     "lat": 11.109985,
     "lon": 105.311909,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_685.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0259.webp"
   },
   {
@@ -10160,8 +10160,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.408506,104.406396&ll=11.408506,104.406396&z=16",
     "lat": 11.408506,
     "lon": 104.406396,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_688.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0061.webp"
   },
   {
@@ -10217,8 +10217,8 @@
     "maps_url": "https://maps.google.com/maps?q=10.716585,104.311743&ll=10.716585,104.311743&z=16",
     "lat": 10.716585,
     "lon": 104.311743,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_691.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0117.webp"
   },
   {
@@ -10274,8 +10274,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.243960,105.616433&ll=11.243960,105.616433&z=16",
     "lat": 11.245334,
     "lon": 105.614931,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_694.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0078.webp"
   },
   {
@@ -10388,8 +10388,8 @@
     "maps_url": "https://maps.app.goo.gl/1cLKjPoanNhhVtPx6?g_st=it",
     "lat": 12.408905,
     "lon": 104.473547,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_700.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0135.webp"
   },
   {
@@ -10483,8 +10483,8 @@
     "maps_url": "https://maps.google.com/maps?q=14.066290,104.705973&ll=14.066290,104.705973&z=16",
     "lat": 14.06629,
     "lon": 104.705973,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_705.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0099.webp"
   },
   {
@@ -10502,8 +10502,8 @@
     "maps_url": "https://maps.app.goo.gl/erw3GjWWGLtjN5wt6 (https://maps.google.com/maps?q=11.334472,104.653289&ll=11.334472,104.653289&z=16)",
     "lat": 11.334472,
     "lon": 104.653289,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_706.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0256.webp"
   },
   {
@@ -10616,8 +10616,8 @@
     "maps_url": "https://maps.google.com/maps?q=12.883049,103.123627&ll=12.883049,103.123627&z=16",
     "lat": 12.883049,
     "lon": 103.123627,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_712.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0378.webp"
   },
   {
@@ -10673,8 +10673,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.367192,105.398313&ll=11.367192,105.398313&z=16",
     "lat": 11.367192,
     "lon": 105.398313,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_715.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0114.webp"
   },
   {
@@ -10711,8 +10711,8 @@
     "maps_url": "https://maps.google.com/maps?q=13.086367,102.483629&ll=13.086367,102.483629&z=16",
     "lat": 13.086367,
     "lon": 102.483629,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_717.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0183.webp"
   },
   {
@@ -10749,8 +10749,8 @@
     "maps_url": "https://maps.app.goo.gl/UnUTVyJM15DxmsEs5?g_st=atm",
     "lat": 11.924683,
     "lon": 104.800187,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_719.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0127.webp"
   },
   {
@@ -10787,8 +10787,8 @@
     "maps_url": "https://maps.google.com/maps?q=12.531572,104.215919&ll=12.531572,104.215919&z=16",
     "lat": 12.531572,
     "lon": 104.215919,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_721.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0223.webp"
   },
   {
@@ -10806,8 +10806,8 @@
     "maps_url": "https://maps.google.com/maps?q=10.924868,104.650861&ll=10.924868,104.650861&z=16",
     "lat": 10.924868,
     "lon": 104.650861,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_723.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0160.webp"
   },
   {
@@ -10863,8 +10863,8 @@
     "maps_url": "https://maps.app.goo.gl/6sz9L7A8VkD9ycs79",
     "lat": 11.7281755,
     "lon": 105.2357866,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_726.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0469.webp"
   },
   {
@@ -10920,8 +10920,8 @@
     "maps_url": "https://www.google.com/maps?q=11.387495,105.009253&ll=11.387495,105.009253&z=16",
     "lat": 11.387495,
     "lon": 105.009253,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_729.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0525.webp"
   },
   {
@@ -10958,8 +10958,8 @@
     "maps_url": "https://www.google.com/maps/search/13.129688044483247,+103.31757667497746?sa=X&ved=1t:242&ictx=111",
     "lat": 13.129688,
     "lon": 103.317577,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_731.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0145.webp"
   },
   {
@@ -10996,8 +10996,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.672995,105.425463&ll=11.672995,105.425463&z=16",
     "lat": 11.672995,
     "lon": 105.425463,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_733.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0109.webp"
   },
   {
@@ -11015,8 +11015,8 @@
     "maps_url": "https://maps.google.com/maps?q=10.938584,104.738658&ll=10.938584,104.738658&z=16",
     "lat": 10.938604,
     "lon": 104.738662,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_734.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0131.webp"
   },
   {
@@ -11034,8 +11034,8 @@
     "maps_url": "https://maps.google.com/maps?q=12.280447,104.592132&ll=12.280447,104.592132&z=16",
     "lat": 12.280447,
     "lon": 104.592132,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_735.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0328.webp"
   },
   {
@@ -11053,8 +11053,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.439715,104.723917&ll=11.439715,104.723917&z=16",
     "lat": 11.439715,
     "lon": 104.723917,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_736.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0062.webp"
   },
   {
@@ -11091,8 +11091,8 @@
     "maps_url": "https://maps.google.com/maps?q=10.739635,104.927914&ll=10.739635,104.927914&z=16",
     "lat": 10.739635,
     "lon": 104.927914,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_738.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0134.webp"
   },
   {
@@ -11129,8 +11129,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.492022,105.058908&ll=11.492022,105.058908&z=16",
     "lat": 11.492022,
     "lon": 105.058908,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_740.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0461.webp"
   },
   {
@@ -11148,8 +11148,8 @@
     "maps_url": "https://maps.google.com/maps?q=12.537747,107.432744&ll=12.537747,107.432744&z=16",
     "lat": 12.537747,
     "lon": 107.432744,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_741.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0507.webp"
   },
   {
@@ -11186,8 +11186,8 @@
     "maps_url": "https://maps.app.goo.gl/qxKjucnttpSPTDpDA?g_st=it",
     "lat": 11.267278,
     "lon": 104.908278,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_743.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0111.webp"
   },
   {
@@ -11205,8 +11205,8 @@
     "maps_url": "https://maps.app.goo.gl/f9xWwVzsUBvx6ueXA?g_st=ic",
     "lat": 11.587664,
     "lon": 104.973435,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_744.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0174.webp"
   },
   {
@@ -11262,8 +11262,8 @@
     "maps_url": "https://maps.google.com/maps?q=10.710028,103.891897&ll=10.710028,103.891897&z=16",
     "lat": 10.710028,
     "lon": 103.891897,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_747.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0049.webp"
   },
   {
@@ -11281,8 +11281,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.453499,105.258639&ll=11.453499,105.258639&z=16",
     "lat": 11.453499,
     "lon": 105.258639,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_748.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0129.webp"
   },
   {
@@ -11300,8 +11300,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.943135,104.704547&ll=11.943135,104.704547&z=16",
     "lat": 11.943135,
     "lon": 104.704547,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_479_r543.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0392.webp"
   },
   {

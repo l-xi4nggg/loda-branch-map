@@ -13,7 +13,7 @@
       cancel: '取消',
       tabMap: '地图',
       tabList: '门店列表',
-      searchPlaceholder: '搜索仓名 / 编码 / 邮编 / 业务员 / 电话…',
+      searchPlaceholder: '搜索仓库名称 / 仓库编码…',
       allProvinces: '全部省份',
       branchCount: (n, total) => (n === total ? `共 ${n} 个站点` : `显示 ${n} / ${total} 个站点`),
       subSummary: (n, provCount) => `${n} 个网点 · ${provCount} 个省市`,
@@ -50,7 +50,7 @@
       cancel: 'បោះបង់',
       tabMap: 'ផែនទី',
       tabList: 'បញ្ជីសាខា',
-      searchPlaceholder: 'ស្វែងរកឈ្មោះឃ្លាំង / កូដ / លេខប្រៃសណីយ៍ / លេខទូរស័ព្ទ…',
+      searchPlaceholder: 'ស្វែងរកឈ្មោះឃ្លាំង / លេខឃ្លាំង…',
       allProvinces: 'ខេត្ត/ក្រុងទាំងអស់',
       branchCount: (n, total) => (n === total ? `សរុប ${n} សាខា` : `បង្ហាញ ${n} / ${total} សាខា`),
       subSummary: (n, provCount) => `${n} សាខា · ${provCount} ខេត្ត/រាជធានី`,
@@ -87,7 +87,7 @@
       cancel: 'Cancel',
       tabMap: 'Map',
       tabList: 'Branches',
-      searchPlaceholder: 'Search branch / code / postal / salesman / phone…',
+      searchPlaceholder: 'Search warehouse name / code…',
       allProvinces: 'All Provinces',
       branchCount: (n, total) => (n === total ? `${n} branches` : `${n} of ${total} branches`),
       subSummary: (n, provCount) => `${n} branches · ${provCount} provinces`,
@@ -116,7 +116,7 @@
   };
 
   const state = {
-    lang: 'zh',
+    lang: 'km',
     branches: [],
     filtered: [],
     selectedProvinces: new Set(), // empty = all
@@ -450,20 +450,13 @@
         return false;
       }
       if (!q) return true;
-      const hay = [
-        b.code,
-        b.name_zh,
-        b.name_km,
-        b.province_zh,
-        b.province_km,
-        b.province_en,
-        b.postal_code,
-        b.salesman,
-        b.phone
-      ]
+      if (/^\d+$/.test(q)) {
+        return String(b.code || '').trim().replace(/^0+/, '') === q.replace(/^0+/, '');
+      }
+      const hay = [b.name_km, b.name_zh]
         .join(' ')
         .toLowerCase();
-      return hay.includes(q);
+      return hay.includes(q) || hay.replace(/\s+/g, '').includes(q.replace(/\s+/g, ''));
     });
 
     if (state.refPoint) {
@@ -928,6 +921,6 @@
 
   initMap();
   bindEvents();
-  setLanguage('zh');
+  setLanguage('km');
   loadData();
 })();
