@@ -11286,25 +11286,6 @@
     "avatar": "images/avatars/ap_0129.webp"
   },
   {
-    "id": "prov-479-r543",
-    "code": "749",
-    "region_type": "prov",
-    "province_zh": "磅清扬省",
-    "province_km": "ខេត្តកំពង់ឆ្នាំង",
-    "province_en": "Kampong Chhnang",
-    "name_zh": "五号学校仓",
-    "name_km": "ឃ្លាំងផ្សារសាលាលេខ5",
-    "phone": "071 4000 862 / 078 2000 44",
-    "salesman": "ផ្សារសាលាលេខ5(កំពង់ឆ្នាំង)-684",
-    "postal_code": "04051000",
-    "maps_url": "https://maps.google.com/maps?q=11.943135,104.704547&ll=11.943135,104.704547&z=16",
-    "lat": 11.943135,
-    "lon": 104.704547,
-    "image": "images/prov/prov_479_r543.webp",
-    "photo_status": "ok",
-    "avatar": "images/avatars/ap_0392.webp"
-  },
-  {
     "id": "prov-750",
     "code": "750",
     "region_type": "prov",
