@@ -1039,3 +1039,7 @@ html[lang="en"] textarea {
     font-size: 12px;
   }
 }
+
+/* Copyright line */
+.leaflet-control-attribution{font-size:10px;}
+.puloda-copy{font-size:10px;color:#64748b;}

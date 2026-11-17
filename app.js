@@ -286,6 +286,7 @@
       maxZoom: 19,
       attribution: '&copy; OpenStreetMap contributors'
     }).addTo(state.map);
+    state.map.attributionControl.addAttribution('<span class="puloda-copy">&copy; Copyright by Puloda</span>');
 
     if (typeof L.markerClusterGroup === 'function') {
       state.clusterGroup = L.markerClusterGroup({
