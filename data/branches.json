@@ -1900,25 +1900,6 @@
     "avatar": "images/avatars/ap_0504.webp"
   },
   {
-    "id": "prov-125",
-    "code": "125",
-    "region_type": "prov",
-    "province_zh": "奥多棉吉省",
-    "province_km": "ខេត្តឧត្តរមានជ័យ",
-    "province_en": "Oddar Meanchey",
-    "name_zh": "奥斯马仓",
-    "name_km": "ឃ្លាំងអូរស្មាច់",
-    "phone": "061 750 333 / 066 999 507",
-    "salesman": "អូរស្មាច់-89",
-    "postal_code": "22040502",
-    "maps_url": "https://goo.gl/maps/pdxgF2zKx2GeBzC77",
-    "lat": 14.408167,
-    "lon": 103.69325,
-    "image": "",
-    "photo_status": "missing",
-    "avatar": "images/avatars/ap_0535.webp"
-  },
-  {
     "id": "prov-127",
     "code": "127",
     "region_type": "prov",
@@ -8757,25 +8738,6 @@
     "image": "images/prov/prov_615.webp",
     "photo_status": "ok",
     "avatar": "images/avatars/ap_0107.webp"
-  },
-  {
-    "id": "prov-616",
-    "code": "616",
-    "region_type": "prov",
-    "province_zh": "马德望省",
-    "province_km": "ខេត្តបាត់ដំបង",
-    "province_en": "Battambang",
-    "name_zh": "乌敦包仓",
-    "name_km": "ឃ្លាំងតំបន់អូរដូនពៅ",
-    "phone": "097 26 22 207 / 066 47 06 95",
-    "salesman": "តំបន់អូរដូនពៅ(បាត់ដំបង)-552",
-    "postal_code": "02040700",
-    "maps_url": "https://maps.google.com/maps?q=13.152902,102.827369&ll=13.152902,102.827369&z=16",
-    "lat": 13.152902,
-    "lon": 102.827369,
-    "image": "",
-    "photo_status": "missing",
-    "avatar": "images/avatars/ap_0154.webp"
   },
   {
     "id": "prov-617",
