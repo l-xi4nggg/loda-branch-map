@@ -2180,8 +2180,8 @@
     "maps_url": "https://www.google.com/maps/place/13%C2%B033'56.8%22N+102%C2%B021'48.6%22E/@13.5655071,102.3633072,19.83z/data=!4m4!3m3!8m2!3d13.5657821!4d102.3635119?entry=ttu",
     "lat": 13.56567,
     "lon": 102.3635,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_146.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0509.webp"
   },
   {
@@ -8184,8 +8184,8 @@
     "maps_url": "https://maps.google.com/maps?q=13.076607,102.986478&ll=13.076607,102.986478&z=16",
     "lat": 13.076607,
     "lon": 102.986478,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_584.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0459.webp"
   },
   {
@@ -10407,8 +10407,8 @@
     "maps_url": "https://maps.google.com/maps?q=11.772681,106.338128&ll=11.772681,106.338128&z=16",
     "lat": 11.772681,
     "lon": 106.338128,
-    "image": "",
-    "photo_status": "missing",
+    "image": "images/prov/prov_707.webp",
+    "photo_status": "ok",
     "avatar": "images/avatars/ap_0104.webp"
   },
   {
